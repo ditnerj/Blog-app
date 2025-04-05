@@ -17,6 +17,6 @@ A modern blog platform built with React, TypeScript, and Vite featuring post cre
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/blog-app.git
+git [clone https://github.com/yourusername/blog-app.git](https://github.com/ditnerj/Blog-app.git)
 cd blog-app
 ```
